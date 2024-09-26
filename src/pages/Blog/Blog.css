@@ -1,0 +1,8 @@
+.blog-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/secondPage.jpg);
+}
+.imgCard {
+  height: 300px;
+  width: 400px;
+  margin-left: 1px;
+}
