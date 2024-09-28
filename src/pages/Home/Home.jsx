@@ -38,7 +38,7 @@ function Home() {
                         </Link>
                     </div>
                     <div className='col-lg-5 mt-5 mt-lg-0'>
-              <img style={{width:"500px", height:"500px"}} src="https://www.agroinvestor.ru/upload/iblock/a0d/a0d7db07dceb5f49bc6640601babfd8e.jpg" alt="" />
+              {/* <img style={{width:"500px", height:"500px"}} src="https://www.agroinvestor.ru/upload/iblock/a0d/a0d7db07dceb5f49bc6640601babfd8e.jpg" alt="" /> */}
                     </div>
                 </div>
             </div>
