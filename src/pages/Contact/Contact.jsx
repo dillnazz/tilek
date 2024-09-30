@@ -41,6 +41,12 @@ function Contact() {
               +996 507 724 212
             </p>
           </Form.Group>
+          <Form.Group className='mb-3'>
+            <Form.Label>Адрес</Form.Label>
+            <p className="form-control" style={{ backgroundColor: "#f8f9fa", border: "1px solid #ced4da" }}>
+              г.Бишкек, ул. Киевская 62, ТЦ "Евразия"
+            </p>
+          </Form.Group>
         </Form>
       </div>
 
