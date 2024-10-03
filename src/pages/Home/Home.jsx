@@ -12,7 +12,7 @@ function Home() {
           <h1 className='text-center fw-semibold'>Ынтымак</h1>
           <p style={{ textAlign: 'center' }}>Лучшие решения для вашей фермы! Мы предлагаем широкий ассортимент высококачественной сельскохозяйственной техники, которая поможет вам повысить эффективность и производительность. Наши продукты — это надежность, инновации и долговечность, разработанные с учётом нужд современных фермеров. Присоединяйтесь к нам и обеспечьте вашему хозяйству успешное и устойчивое будущее!</p>
                 <div className='d-flex flex-column flex-sm-row align-items-center'>
-                    <Link to="/courses">
+                    <Link to="/blog">
               <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Наши продукты</button>
                     </Link>
                     <Link to="/contact">
